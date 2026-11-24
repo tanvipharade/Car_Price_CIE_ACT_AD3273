@@ -2,28 +2,28 @@
 Car Price Prediction using Multiple Linear Regression and Python
 
 Live demo: https://carpricepredictionmlr-ctzgvs2xgolcnehkyxtboe.streamlit.app/ 
-# House Price Prediction Using Multiple Linear Regression
+# Car Price Prediction Using Machine Learning
 
 ## Project Overview
 
-This project predicts house prices using supervised machine learning and Multiple Linear Regression. It uses multiple property-related features to estimate the price of a house.
+This project predicts the selling price of a car using supervised machine learning. It uses different car-related features to estimate the expected price of a vehicle.
 
 ## Objective
 
-To build and evaluate a regression model that predicts house prices using multiple input features and compare its performance with a single-feature regression model.
+To build and evaluate a machine learning regression model that predicts car prices using multiple input features and analyzes how different vehicle characteristics affect the predicted price.
 
 ## Dataset
 
-The project uses a house price dataset containing property information such as:
+The project uses a car price dataset containing vehicle-related information such as:
 
-- Area type
-- Availability
-- Number of bedrooms
-- Total square footage
-- Number of bathrooms
-- Balcony
-- Location
-- Price
+- Car brand and model
+- Year of manufacture
+- Present or selling price
+- Kilometers driven
+- Fuel type
+- Transmission type
+- Seller type
+- Number of previous owners
 
 ## Technologies Used
 
@@ -37,17 +37,17 @@ The project uses a house price dataset containing property information such as:
 
 1. Data loading and exploration
 2. Data cleaning and preprocessing
-3. Handling categorical and numerical features
+3. Handling numerical and categorical features
 4. Exploratory Data Analysis and visualizations
-5. Single Linear Regression
-6. Multiple Linear Regression
-7. Model evaluation using MAE, MSE, RMSE and R-squared
-8. Comparison of single-feature and multiple-feature models
-9. Model deployment
+5. Feature selection
+6. Machine learning regression model implementation
+7. Model training and testing
+8. Model evaluation using MAE, MSE, RMSE and R-squared
+9. Prediction of car prices using user input
 
 ## Key Results
 
-The multiple-feature model was evaluated against the single-feature model using regression evaluation metrics. Refer to the executed notebook for the final test results and comparison.
+The machine learning model was trained and evaluated using regression evaluation metrics, including MAE, MSE, RMSE and R-squared. The final results are available in the executed notebook.
 
 ## Repository Contents
 
