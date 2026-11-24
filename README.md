@@ -25,6 +25,8 @@ The project uses a car price dataset containing vehicle-related information such
 - Seller type
 - Number of previous owners
 
+  Dataset Link: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho 
+
 ## Technologies Used
 
 - Python
